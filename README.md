@@ -1,7 +1,8 @@
 <div class="container">
     <div class="poetry">
-        <h2>Orphelin Du Ciel, des nuits de plaintes éternelles</h2>
-        <h2>Que reviennent les néons, la pensée en ébullition, Rimbaud ne sera-t-il plus ? Je suis de ceux qui recherchent Pluton, des mondes à réinventer, une feuille qui s'endort pour un écosystème en union. Réveille-toi donc...</h2>
+        <b>
+        <h2>Orphelin Du Ciel, des nuits de plaintes éternelles <br/>
+        Que reviennent les néons, la pensée en ébullition, Rimbaud ne sera-t-il plus ? Je suis de ceux qui recherchent Pluton, des mondes à réinventer, une feuille qui s'endort pour un écosystème en union. Réveille-toi donc...<Br/>
         <p>Je sais très bien que vous ne pouvez pas abolir la Nuit. Vous pourriez l'envisager, mais... L'idée même de son absence me brise, m'insupporte, même si cela devait me libérer de ma douleur.</p>
         <p><strong>Quel mal ?</strong> Cette machinerie interne qui nous rend complices du mal, de l'infortune. Le passé qui ressurgit, tous ces passés qui reviennent comme des chants antiques et inécoutables.</p>
         <p>La coutume... Sous nos pensées, Monsieur, tout se transforme et devient la clé de voûte de notre commisération, de notre dédain...</p>
@@ -14,6 +15,7 @@
         <p>La nuit, il faut se réinventer. Malgré nos pensées toujours débordantes, comme un devoir à terminer et à rendre indemnes de nos rescousses et de ces chants lointains que nous prenons pour des antiennes, qui ne sont que des musiques malheureuses sur vos propos courants et sans objet.</p>
         <p>Il fait toujours nuit chez moi, Monsieur. Dans le soir je m'absente. Le jour est une faute de goût de l'astronomie. Bien sûr, il y a les fleurs, les fruits, cette éternelle vibration de la lumière qui vous étonne et qui m'ennuie.</p>
         <p>Que vienne la galaxie de l'évidence, celle qui nous apprendra le langage du Rien. Je vous salue. Sauvez la Nuit.</p>
+        </b>
     </div>
 </div>
 
