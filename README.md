@@ -1,33 +1,8 @@
-# Poésie
-
-<style>
-    body {
-        font-family: 'Times New Roman', Times, serif;
-        background-color: #f5f5f5;
-        margin: 0;
-        padding: 20px;
-    }
-    .poetry {
-        background: #fff;
-        padding: 30px;
-        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-        border-radius: 10px;
-        margin-top: 20px;
-    }
-    .poetry p {
-        text-align: justify;
-    }
-    .poetry h2 {
-        text-align: center;
-        margin-bottom: 20px;
-    }
-</style>
-
 <div class="container">
     <div class="poetry">
         <h2>Poésie</h2>
         <p>Je sais très bien que vous ne pouvez pas supprimer la Nuit. Je sais que vous envisageriez volontiers de le faire, mais... Ce seul fait d'imaginer une chose pareille me défait, m'insupporte, même si cela devait me libérer de mon mal.</p>
-        <p><strong>Le Corbeau</strong> Quel mal, Madame ? Cette machinerie interne qui nous fait les complices du mal, de l'infortune. Du passé qui nous remonte, de tous vos passés qui nous remontent comme des chants antiques et inécoutables.</p>
+        <p><strong></strong> Quel mal, Madame ? Cette machinerie interne qui nous fait les complices du mal, de l'infortune. Du passé qui nous remonte, de tous vos passés qui nous remontent comme des chants antiques et inécoutables.</p>
         <p>Cette machinerie interne qui nous fait les complices du mal, de l'infortune. Du passé qui nous remonte, de tous vos passés qui nous remontent comme des chants antiques et inécoutables.</p>
         <p>La coutume... Sous nos jupes noires, amples et longues, Monsieur, tout le monde se transforme et devient la clef de voûte de notre commisération, de notre dédain...</p>
         <p>Sous nos jupes, il y a le monde que nous inventons et dont nous nous servons, le Nuit, pour le surprendre et le battre. Le jour, nous prions. La Nuit, nous inventons.</p>
