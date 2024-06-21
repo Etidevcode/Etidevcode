@@ -1,8 +1,8 @@
 <div class="container">
     <div class="poetry">
         <b>
-        <h2>Orphelin Du Ciel, des nuits de plaintes éternelles <br/>
-        Que reviennent les néons, la pensée en ébullition, Rimbaud ne sera-t-il plus ? Je suis de ceux qui recherchent Pluton, des mondes à réinventer, une feuille qui s'endort pour un écosystème en union. Réveille-toi donc...<Br/>
+        <p>Orphelin Du Ciel, des nuits de plaintes éternelles</p>p><br/>
+        <p>Que reviennent les néons, la pensée en ébullition, Rimbaud ne sera-t-il plus ? Je suis de ceux qui recherchent Pluton, des mondes à réinventer, une feuille qui s'endort pour un écosystème en union. Réveille-toi donc...</p>p<Br/>
         <p>Je sais très bien que vous ne pouvez pas abolir la Nuit. Vous pourriez l'envisager, mais... L'idée même de son absence me brise, m'insupporte, même si cela devait me libérer de ma douleur.</p>
         <p><strong>Quel mal ?</strong> Cette machinerie interne qui nous rend complices du mal, de l'infortune. Le passé qui ressurgit, tous ces passés qui reviennent comme des chants antiques et inécoutables.</p>
         <p>La coutume... Sous nos pensées, Monsieur, tout se transforme et devient la clé de voûte de notre commisération, de notre dédain...</p>
