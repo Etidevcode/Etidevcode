@@ -1,6 +1,6 @@
 <div class="container">
     <div class="poetry">
-        <h2>Poésie</h2>
+        <h2>Orphelin Du Ciel, des nuits de plaintes éternelles</h2>
         <p>Je sais très bien que vous ne pouvez pas abolir la Nuit. Vous pourriez l'envisager, mais... L'idée même de son absence me brise, m'insupporte, même si cela devait me libérer de ma douleur.</p>
         <p><strong>Quel mal ?</strong> Cette machinerie interne qui nous rend complices du mal, de l'infortune. Le passé qui ressurgit, tous vos passés qui reviennent comme des chants antiques et inécoutables.</p>
         <p>La coutume... Sous nos pensées, Monsieur, tout se transforme et devient la clé de voûte de notre commisération, de notre dédain...</p>
