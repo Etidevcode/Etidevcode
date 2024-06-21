@@ -3,7 +3,7 @@
         <h2>Poésie</h2>
         <p>Je sais très bien que vous ne pouvez pas supprimer la Nuit. Je sais que vous envisageriez volontiers de le faire, mais... Ce seul fait d'imaginer une chose pareille me défait, m'insupporte, même si cela devait me libérer de mon mal.</p>
         <p><strong></strong> Quel mal ? Cette machinerie interne qui nous fait les complices du mal, de l'infortune. Du passé qui nous remonte, de tous tous passés qui nous remontent comme des chants antiques et inécoutables.</p>
-        <p>Cette machinerie interne qui nous fait les complices du mal, de l'infortune. Du passé qui nous remonte, de tous vos passés qui nous remontent comme des chants antiques et inécoutables.</p>
+    
         <p>La coutume... Sous nos pensées barbues, Monsieur, tout le monde se transforme et devient la clef de voûte de notre commisération, de notre dédain...</p>
         <p>Au devant de nos pensées impératrices, il y a le monde que nous inventons et dont nous nous servons, la Nuit, pour le surprendre et le battre. Le jour, nous prions. La Nuit, nous inventons.</p>
         <p>La Vie avec ses valeurs éternelles. Nous avons dans le monde de nos pensées l'exact de nos béatitudes et à peine couché, nous pàartons en vacances dans nos pensées, au fond de nos rêves longitudinaux ou excentriques, cela dépend de la valeur que vous attribuez à la géométrie de l'architecture de nos pensées.</p>
